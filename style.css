@@ -1,0 +1,23 @@
+:root {
+    --font: 'Bebas Neue', cursive;
+
+}
+
+body {
+    font-family: var(--font);
+}
+
+button {
+    font-family: var(--font);
+    
+}
+
+.dark-mode-theme {
+    background-color: rgb(2, 1, 2);
+    color: rgb(247, 243, 243);
+}
+/*
+.page-header {
+    font-size: 4rem;
+    text-align: center;
+}*/
